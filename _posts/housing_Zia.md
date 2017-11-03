@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Basic KC housing project"
+date: 2013-05-22
+excerpt: "Housing"
+tags: [sample post, images, test]
+---
+
 
 # Very basic housing project:
 
