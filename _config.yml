@@ -2,7 +2,7 @@
 title:          MyBlog
 bio:            'My Own Blog'
 description:    "Blog using one of the Jekyll themes."
-picture:        'https://github.com/melnimr/melnimr.github.io/blob/master/assets/img/profile.png'
+picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://melnimr.github.io
 
