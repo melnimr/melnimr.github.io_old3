@@ -22,6 +22,7 @@ This is the blog for an aspiring data scientist. I am PhD holder in physics look
 - LATEX
 - TensorFlow, Keras
 - Amazon AWS, CLI, EC2, AMI, Spark, Hadoop
+- NumPy, Pandas, sklearn
 
 
 
